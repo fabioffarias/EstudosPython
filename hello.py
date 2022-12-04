@@ -37,3 +37,5 @@ print(primeiro_digito)
 print(segundo_digito)
 
 print(str.isnumeric("f"))
+
+print("teste")
